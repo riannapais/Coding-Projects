@@ -1,6 +1,5 @@
 /*
-Name: Rianna Pais (#5517988)
-Lab Section: CSE 130A (Lab #9)
+Name: Rianna Pais
 Date: 03/29/2024
 
 This is a program in C++ that features a Tic-Tac-Toe game for users to play against the computer. It randomizes who gets the first turn, and each 
