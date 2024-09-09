@@ -1,6 +1,5 @@
 /*    
-Name: Rianna Pais (#5517988)
-Lab Section: CSE 130A (Final Project)
+Name: Rianna Pais
 Date: 04/24/2024
 
 This is a program that runs a simulated illness checker for a user specified amount of patients. It utilizes multiple namespaces, structs, loops, functions, 
